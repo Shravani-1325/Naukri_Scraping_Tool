@@ -1,0 +1,9 @@
+selenium
+beautifulsoup4
+pandas
+numpy
+openpyxl
+streamlit
+matplotlib
+seaborn
+scikit-learn
