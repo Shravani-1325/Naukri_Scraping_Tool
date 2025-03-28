@@ -30,7 +30,7 @@ This project is designed to scrape job postings from **Naukri.com** based on use
  ┃  ┣ 📄 app.py              # Streamlit UI Code
  ┣ 📄 requirements.txt       # Project dependencies
  ┣ 📄 README.md              # Project Documentation
- ┗ 📄 Project_Report.pdf     # Final Report
+ 
 ```
 
 ---
